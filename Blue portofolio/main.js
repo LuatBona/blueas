@@ -1,0 +1,5 @@
+const intersa = new IntersectionObserver(()=>{
+
+    
+
+})
